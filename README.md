@@ -2,7 +2,8 @@
 An Project Lotus Fork with lesser bugs and a bit more roles
 
 # Project Infinity Background (ig)
-![Inferno_Star](https://github.com/InfWorks/Infinity/assets/123344741/930741f0-4ac2-4bc9-9096-d594f781264e)
+![Inferno_Star](https://github.com/InfWorks/Infinity/assets/123344741/12da5b21-e252-4059-b565-fd8e5630d03c)
+
 
 I am still working on this mod so please bear with me
 
