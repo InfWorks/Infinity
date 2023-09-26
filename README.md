@@ -35,7 +35,7 @@ Thats about it.
 | [Grenadier](#grenadier)                 | [Ex-Convict](#ex-convict)       | [Occultist](#occultist)           | [Survivor](#survivor)                  | [Tiebreaker](#tiebreaker) |
 | [Identity Thief](#identity-thief)       | [Herbalist](#herbalist)         | [Pelican](#pelican)               | [Terrorist](#terrorist)                | [Torch](#torch)           |
 | [Janitor](#janitor)                     | [Investigator](#investigator)   | [Retributionist](#retributionist) |                                        | [Watcher](#watcher)       |
-| [Mafioso](#mafioso)                     | [Mayor](#mayor)                 | [The Glitch](#the-glitch)         |                                        | [Workhorse](#workhorse)   |
+| [Mafioso (Possibly going to revamp)](#mafioso)                     | [Mayor](#mayor)                 | [The Glitch](#the-glitch)         |                                        | [Workhorse](#workhorse)   |
 | [Mare](#mare)                           | [Mechanic](#mechanic)           | [Werewolf](#werewolf)             |                                        |                           |
 | [Mastermind](#mastermind)               | [Medic](#medic)                 |                                   |                                        |                           |
 | [Miner](#miner)                         | [Medium](#medium)               |                                   |                                        |                           |
