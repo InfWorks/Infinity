@@ -21,13 +21,13 @@ Thats about it.
 
 ## Roles
 
-| Impostor                               | Crewmate                        | Neutral Killing                   | Neutral Passive                        | Modifier                  |
-| -------------------------------------- | ------------------------------- | --------------------------------- | -------------------------------------- | ------------------------- |
-| [Assassin](#assassin)                   | [Alchemist](#alchemist)         | [Agitater](#agitater)             | [Amnesiac](#amnesiac)                  | [Bait](#bait)             |
-| [Blackmailer](#blackmailer)             | [Bastion](#bastion)             | [Arsonist](#arsonist)             | [Archangel](#archangel)                | [Bewilder](#bewilder)     |
-| [Camouflager](#camouflager)             | [Bodyguard](#bodyguard)         | [Blood Knight](#blood-knight)     | [Copy-Cat](#copycat)                   | [Bloodlust](#bloodlust)   |
-| [Consort](#consort)                     | [Charmer](#charmer)             | [Egoist](#egoist)                 | [Hacker](#hacker)                      | [Diseased](#diseased)     |
-| [Creeper](#creeper)                     | [Crusader](#crusader)           | [Hitman](#hitman)                 | [Jester](#jester)                      | [Flash](#flash)           |
+| Impostor                               | Crewmate                        | Neutral Killing                   | Neutral Passive                        | Modifier                  | Madmates                   |
+| -------------------------------------- | ------------------------------- | --------------------------------- | -------------------------------------- | ------------------------- | ---------------------------  
+| [Assassin](#assassin)                   | [Alchemist](#alchemist)         | [Agitater](#agitater)             | [Amnesiac](#amnesiac)                  | [Bait](#bait)             | [Madmate](#madmate)        
+| [Blackmailer](#blackmailer)             | [Bastion](#bastion)             | [Arsonist](#arsonist)             | [Archangel](#archangel)                | [Bewilder](#bewilder)   | [Mad Guardian](#mad-guardian)
+| [Camouflager](#camouflager)             | [Bodyguard](#bodyguard)         | [Blood Knight](#blood-knight)     | [Copy-Cat](#copycat)                   | [Bloodlust](#bloodlust)   | [Mad Snitch](#mad-snitch)
+| [Consort](#consort)                     | [Charmer](#charmer)             | [Egoist](#egoist)                 | [Hacker](#hacker)                      | [Diseased](#diseased)     | [Crewpostor](#crewpostor)
+| [Creeper](#creeper)                     | [Crusader](#crusader)           | [Hitman](#hitman)                 | [Jester](#jester)                      | [Flash](#flash)           | [Parasite](#parasite)
 | [Disperser](#disperser)                 | [Demolitionist](#demolitionist) | [Jackal](#jackal)                 | [Opportunist](#opportunist)            | [Nimble](#nimble)         |
 | [Escapist](#escapist)                   | [Dictator](#dictator)           | [Juggernaut](#juggernaut)         | [Phantom](#phantom)                    | [Oblivious](#oblivious)   |
 | [FireWorker](#fireworker)               | [Doctor](#doctor)               | [Marksman](#marksman)             | [Postman](#postman)                    | [Romantic](#romantic)     |
@@ -52,11 +52,9 @@ Thats about it.
 | [Witch](#witch)                         | [Tracker](#tracker)             |                                   |                                        |                           |
 | [Yin Yanger](#yin-yanger)               | [Transporter](#transporter)     |                                   |                                        |                           |
 |                                        | [Trapster](#trapster)           |                                   |                                        |                           |
-| [Crewposter (Madmate)](#crewposter)     | [Veteran](#veteran)             |                                   |                                        |                           |
-| [Mad Guardian (Madmate)](#madguardian) | [Vigilante](#vigilante)         |                                   |                                        |                           |
-| [Madmate (Madmate)](#madmate)           |                                 |                                   |                                        |                           |
-| [Mad Snitch (Madmate)](#madsnitch)      |                                 |                                   |                                        |                           |
-| [Parasite (MadMate)](#parasite)         |                                 |                                   |                                        |                           |
+|                                         | [Veteran](#veteran)             |                                   |                                        |                           |
+|                                        | [Vigilante](#vigilante)         |                                   |                                        |                           |
+
 
 
 
